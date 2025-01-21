@@ -2,7 +2,7 @@ dbt_demo:
   outputs:
     dev:
       account: egpyegg-lm49313
-      database: RAW
+      database: RAWold
       password: dbtPassword123
       role: TRANSFORM
       schema: AIRBNB
